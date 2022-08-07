@@ -1,1 +1,18 @@
+* {background-color: #FFCFCF}
 
+a {
+  color: #610000;
+}
+.eggs:hover
+{
+  color: yellow;
+}
+.beef:hover
+{ 
+  color: red; 
+}
+
+.pudding:hover
+{
+  color: #D58853;
+}
